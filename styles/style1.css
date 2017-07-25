@@ -1,0 +1,161 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Vast+Shadow');
+
+html {
+width:100%;
+height:100%;
+background:url("../images/rock.jpg" )center center fixed;
+   background-repeat:no-repeat;
+   background-size:cover;
+   width:100% ;
+ margin:0%;
+}
+
+.navbar {
+  list-style-type:none;
+  background-color:DarkTurquoise;
+  padding:1%;
+  text-align:center;
+  position:fixed;
+  width:100%;
+  margin:0%;
+  padding-top: 0.5px;
+  display:block;
+}
+
+
+.navbar li {
+  display:inline-block;
+  margin-left:20px;
+  
+}
+
+.navbar a {
+  text-decoration:none;
+    
+}
+
+h1{
+   
+    text-align:center;
+    color:DarkTurquoise;
+    font-size:3em;
+    
+    
+    
+ }
+
+ body {
+   
+    content:"";
+    display: table;
+    width:100%;
+    height:100%;
+    margin: 0;
+    
+
+}
+
+ .resume{
+  margin:5%;
+ color:white;
+}
+
+
+li{
+    color:white;
+    font-size:2em;
+    font-family: 'Vast Shadow', cursive;
+}
+
+p{
+    color: white;
+    font-size: 2em;
+    font-family: 'Vast Shadow', cursive;
+    
+    
+}
+
+li a{
+  color:white;
+  background-color:
+ }
+
+a:link{
+  color:white;
+  font-family:'Audiowide', cursive;
+}
+
+a:hover{
+  color:Grey;
+ 
+}
+
+a:active{
+  color:white;
+  background-color:;
+}
+
+.contact {
+color:red;
+}
+
+
+.xbox {
+    text-align:center;
+    
+    
+   
+}
+
+.facebook{
+   color:DarkTurquoise;
+  }
+
+footer {
+ display:block;
+ width:100%;
+ clear:both;
+ border-top: solid 4px silver;
+ position:absolute;
+ margin:0%;
+ background-color:hsla(200,0%,0%,.7);
+ bottom: 0;
+ }
+ link:hover{
+   color:Grey;
+   }
+   
+.active a {
+color: Grey;
+}
+
+.link:hover{
+  color:white;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
